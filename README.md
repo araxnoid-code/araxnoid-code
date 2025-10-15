@@ -28,7 +28,7 @@ struct Profile<'a> {
 impl<'a> Default for Profile<'a> {
     fn default() -> Self {
         Self {
-            online_name: "Arax",
+            online_name: "Araxnoid",
             real_name: "M.Yazem Agva Roiz",
             country: "Indonesia",
             main_programming_language: "Rust",
