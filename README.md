@@ -3,8 +3,8 @@
 # ⚙️ Araxnoid 🦀
 
 <p align="center">  
-  <!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=araxnoid-code&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000"> -->
-  <img height="50%" width="auto" src ="[https://github-readme-stats.vercel.app/api?username=araxnoid-code&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000](https://camo.githubusercontent.com/b969fdd2ed7465a2da05b8fcf5e9fca29744e8658e5c84cab1997de9972c6365/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617261786e6f69642d636f64652673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d6461726b26686964655f626f726465723d7472756526686964653d6973737565732c636f6e74726962732662675f636f6c6f723d3030303030303030)">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=araxnoid-code&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=araxnoid-code&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   
   <br>
