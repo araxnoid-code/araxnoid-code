@@ -72,6 +72,9 @@ status
 - not yet released
 - in development
 
+## Social Media
+- x: https://x.com/araxnoid63826
+
 ## Donate
 - ko-fi: https://ko-fi.com/araxnoid
 - saweria: https://saweria.co/araxnoid
