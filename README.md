@@ -72,7 +72,7 @@ status
 - not yet released
 - in development
 
-### `arrOgpu`
+### `cahotic`
 [<img src="https://img.shields.io/badge/Github-cahotic-white?style=flat"></img>](https://github.com/araxnoid-code/cahotic)
 
 `cahotic`, thread pool management written in rust
